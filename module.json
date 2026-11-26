@@ -3,7 +3,7 @@
   "name": "accounting-bank-feeds-api",
   "display_name": "Accounting Bank Feeds API",
   "description": "HTTP adapter for bank feeds.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\BankFeedsApi\\BankFeedsApiServiceProvider",
   "requires": {
